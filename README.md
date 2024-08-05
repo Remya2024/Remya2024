@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Remya2024
+- 👋 Hi, I’m Remya R S
 - 👀 I’m interested in Data Science and Analysis Field
 - 🌱 I’m currently upskilling myself
 - 💞️ I’m looking to collaborate with companies to conduct training classes in data science and analysis
