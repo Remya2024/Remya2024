@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Remya2024
 - 👀 I’m interested in Data Science and Analysis Field
 - 🌱 I’m currently upskilling myself
-- 💞️ I’m looking to collaborate on training programs in the same field
+- 💞️ I’m looking to collaborate with companies to conduct training classes in data science and analysis
 - 📫 My mailid is remyarsjob@gmail.com
 
 
